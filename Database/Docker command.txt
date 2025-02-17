@@ -1,0 +1,11 @@
+docker container command:
+docker run --name postgres-server -e POSTGRES_USER=Admin -e POSTGRES_PASSWORD="9W7d74zABBEG" -e POSTGRES_DB=Nabestaandendesk-Verlies -p 5432:5432 -d postgres
+
+
+postgress info(second run):
+-name: 		postgres-server
+-user: 		Admin
+-Password: 	9W7d74zABBEG
+-db:		Nabestaandendesk-Verlies
+-port:		5432:5432
+-d:		postgres

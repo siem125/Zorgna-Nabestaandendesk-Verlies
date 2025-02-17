@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  postgres:
+    build: .
+    container_name: postgres-server
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: Admin
+      POSTGRES_PASSWORD: 9W7d74zABBEG
+      POSTGRES_DB: Nabestaandendesk-Verlies
+    restart: always
