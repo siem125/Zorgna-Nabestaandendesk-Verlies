@@ -64,9 +64,9 @@ const getFirstSentence = (html) => {
 
 </script>
 
-<style scoped>
+<style scoped lang="css">
   :root {
-    --theme-color: #00BCC6; /* This is the color for both the button and article heading */
+    --theme-color: 4D9EA4; /* This is the color for both the button and article heading */
   }
 
 .subcategory-data {

@@ -107,7 +107,7 @@
 <style>
     /* Defining the common CTA color variable */
     :root {
-        --theme-color: #00BCC6; /* This is the color for both the button and article heading */
+        --theme-color: #4D9EA4; /* This is the color for both the button and article heading */
     }
   
     /* Hero Section */

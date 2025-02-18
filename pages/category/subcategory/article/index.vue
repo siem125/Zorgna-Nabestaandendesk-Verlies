@@ -73,7 +73,7 @@
   ];
   </script>
   
-  <style scoped>
+  <style scoped lang="css">
   .hero {
     background-size: cover;
     background-position: center;
